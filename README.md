@@ -1,2 +1,2 @@
 # MATH4FUN-SG
-Repository of the Serious Game with Game Learning Analytics integration.
+Repository of the Mathematics Serious Game with Game Learning Analytics integration. MATH4FUN project is a non-profit web project whose main objective is to support students with the learning of the four fundamental operations (add, substract, multiply and divide) of mathematics. Once implemented, it also allows stakeholders (TEACHERS and DEVELOPERS) of the project to monitor the activities carried out in the game by the players, according to their needs.
